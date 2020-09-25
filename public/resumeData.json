@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Sam Sharma",
+    "occupation": "Web Developer",
+    "description": "Full Stack MERN Developer",
+    "image": "IG_SamSharma.jpeg",
+    "bio": "My name is Sam, I'm a Full Stack MERN Developer. I'm currently working on a personal project - PurrPals-A social network for cat lovers.  ",
+    "contactmessage": "Get in touch with me.",
+    "email": "samsharma1022@gmail.com",
+    "phone": "+1 778 686 2708",
+    "address": {
+      "street": "9450 128th Street",
+      "city": "Surrey",
+      "state": "BC",
+      "zip": "V3V 6C4"
+    },
+    "website": "http://www.samsharma.ca",
+    "resumedownload": "Resume.docx",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/samsharma1022",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/samsharma10/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/samshrma10/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/samsharma10",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my skills -",
+    "education": [
+      {
+        "school": "Douglas College",
+        "degree": "Diploma in Computing Studies and Information Systems.",
+        "graduated": "Graduated - February 2020",
+        "description": "A few of the courses completed - Intro to programming I & II, Data Structures and Algorithms, Software Engineering, System Analysis & Design, Advanced JS and Ajax, Web Server Scripting, Database I & II, Network and Security."
+      }
+    ],
+    "work": [
+      {
+        "company": "McDonalds",
+        "title": "Crew Member (Area Leader)",
+        "years": "Aug 2017 - Present",
+        "description": "Greeting customers, recommending food items, collecting payments, promoting special deals, operating various tools and equipment to prepare food, maintaining cleanliness, and ensuring quality control."
+      },
+      {
+        "company": "Target Personel",
+        "title": "Warehouse Worker",
+        "years": "Jan 2017 - Sept 2017",
+        "description": "Loading and unloading containers while following proper safety procedures"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "IT Helpdesk Ticketing System.",
+        "category": "Developed at Douglas College for the final project for the Software Engineering course using JAVA, hibernate ORM and sql for the database.",
+        "image": "logoHelpDesk.PNG",
+        "url": "https://github.com/ericdao37/Group5_FinalProject"
+      },
+      {
+        "title": "Snake Game",
+        "category": "Simple snake game developed using React.js and deployed using Heroku",
+        "image": "snakeapp.PNG",
+        "url": "https://snake-game10.herokuapp.com"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Tracker for COVID-19 virus using react.js and graph.js and deployed with Heroku.",
+        "image": "covidtracker.png",
+        "url": "https://covid19tracker20.herokuapp.com"
+      },
+      {
+        "title": "Weather App",
+        "category": "Weather app using react.js and OpenWeatherMap API",
+        "image": "weatherapp.png",
+        "url": "https://samsharma10.github.io/weather-app"
+      },
+      {
+        "title": "To Do List",
+        "category": "To Do List built with JS, CSS and HTML",
+        "image": "todolist.png",
+        "url": "https://samsharma10.github.io/todoList/"
+      },
+      {
+        "title": "RGB Game",
+        "category": "The great RGB color game using HTML, JavaScript and CSS (The web developer bootcamp - Colt Steele)",
+        "image": "rgbgame.png",
+        "url": "https://samsharma10.github.io/color_game/"
+      },
+      {
+        "title": "Yelp Camp",
+        "category": "YelpCamp is a campground reviewing website. Users can create their own campgrounds or review others' campgrounds. (Web dev bootcamp - Colt Steele)",
+        "image": "yelpcamp.png",
+        "url": "https://yelp-2020-camp.herokuapp.com"
+      },
+      {
+        "title": "Dental 360",
+        "category": "Windows Forms app using ADO.Net, Entity Framework and Sql Server Database. Built as a final group project for Client Server Systems (Douglas College)",
+        "image": "dental360.png",
+        "url": "https://github.com/samsharma10/Dental360App"
+      },
+      {
+        "title": "Food 2 Go",
+        "category": "Food Delivery App built using android studio. Built as a final group project for Intro to mobile app dev. (Douglas College)",
+        "image": "food2go.png",
+        "url": "https://github.com/samsharma10/FoodToGo-3"
+      },
+      {
+        "title": "Image Gallery",
+        "category": "An image gallery landing page using HTML and CSS",
+        "image": "imagegallery.png",
+        "url": "https://samsharma10.github.io/gallery_landing_page/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "user": "Aristotle"
+      }
+    ]
+  }
+}
